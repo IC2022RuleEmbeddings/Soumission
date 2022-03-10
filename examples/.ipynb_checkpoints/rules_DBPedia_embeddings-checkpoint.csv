@@ -1,0 +1,64 @@
+,treatment,#_pairs,type,treatment_values,metric,#_rule,#_not_rule,#_same,metric_IC_low,metric_IC_high
+0,birthDate,171,gradual,higher_implies_higher,0.7926829268292683,65,82,6,0.641,0.98
+1,gender,171,categorical,male vs female,0.9090909090909091,10,11,0,0.52,1.59
+2,genre,171,categorical,Fiction vs NonFiction,0.5,4,8,6,0.228,1.095
+3,arwuW,171,gradual,higher_implies_higher,1.169811320754717,62,53,4,0.921,1.486
+4,countryName,171,categorical,England vs U.S.,0.0,0,0,0,1.0,1.0
+5,countryName,171,categorical,U.S. vs Canada,0.0,0,0,0,1.0,1.0
+6,endowment,171,gradual,higher_implies_higher,1.5192307692307692,79,52,4,1.209,1.909
+7,birthDate,256,gradual,higher_implies_higher,0.8181818181818182,72,88,6,0.668,1.003
+8,gender,256,categorical,male vs female,1.3333333333333333,16,12,0,0.818,2.174
+9,genre,256,categorical,Fiction vs NonFiction,0.4,4,10,6,0.188,0.853
+10,arwuW,256,gradual,higher_implies_higher,1.1724137931034482,68,58,4,0.933,1.474
+11,countryName,256,categorical,England vs U.S.,0.0,0,0,0,1.0,1.0
+12,countryName,256,categorical,U.S. vs Canada,0.0,0,0,0,1.0,1.0
+13,endowment,256,gradual,higher_implies_higher,1.5714285714285714,88,56,4,1.263,1.956
+14,birthDate,341,gradual,higher_implies_higher,0.8181818181818182,72,88,6,0.668,1.003
+15,gender,341,categorical,male vs female,1.3333333333333333,16,12,0,0.818,2.174
+16,genre,341,categorical,Fiction vs NonFiction,0.4,4,10,6,0.188,0.853
+17,arwuW,341,gradual,higher_implies_higher,1.1724137931034482,68,58,4,0.933,1.474
+18,countryName,341,categorical,England vs U.S.,0.0,0,0,0,1.0,1.0
+19,countryName,341,categorical,U.S. vs Canada,0.0,0,0,0,1.0,1.0
+20,endowment,341,gradual,higher_implies_higher,1.5714285714285714,88,56,4,1.263,1.956
+21,birthDate,426,gradual,higher_implies_higher,0.8181818181818182,72,88,6,0.668,1.003
+22,gender,426,categorical,male vs female,1.3333333333333333,16,12,0,0.818,2.174
+23,genre,426,categorical,Fiction vs NonFiction,0.4,4,10,6,0.188,0.853
+24,arwuW,426,gradual,higher_implies_higher,1.1724137931034482,68,58,4,0.933,1.474
+25,countryName,426,categorical,England vs U.S.,0.0,0,0,0,1.0,1.0
+26,countryName,426,categorical,U.S. vs Canada,0.0,0,0,0,1.0,1.0
+27,endowment,426,gradual,higher_implies_higher,1.5714285714285714,88,56,4,1.263,1.956
+28,birthDate,511,gradual,higher_implies_higher,0.8181818181818182,72,88,6,0.668,1.003
+29,gender,511,categorical,male vs female,1.3333333333333333,16,12,0,0.818,2.174
+30,genre,511,categorical,Fiction vs NonFiction,0.4,4,10,6,0.188,0.853
+31,arwuW,511,gradual,higher_implies_higher,1.1724137931034482,68,58,4,0.933,1.474
+32,countryName,511,categorical,England vs U.S.,0.0,0,0,0,1.0,1.0
+33,countryName,511,categorical,U.S. vs Canada,0.0,0,0,0,1.0,1.0
+34,endowment,511,gradual,higher_implies_higher,1.5714285714285714,88,56,4,1.263,1.956
+35,birthDate,596,gradual,higher_implies_higher,0.8181818181818182,72,88,6,0.668,1.003
+36,gender,596,categorical,male vs female,1.3333333333333333,16,12,0,0.818,2.174
+37,genre,596,categorical,Fiction vs NonFiction,0.4,4,10,6,0.188,0.853
+38,arwuW,596,gradual,higher_implies_higher,1.1724137931034482,68,58,4,0.933,1.474
+39,countryName,596,categorical,England vs U.S.,0.0,0,0,0,1.0,1.0
+40,countryName,596,categorical,U.S. vs Canada,0.0,0,0,0,1.0,1.0
+41,endowment,596,gradual,higher_implies_higher,1.5714285714285714,88,56,4,1.263,1.956
+42,birthDate,681,gradual,higher_implies_higher,0.8181818181818182,72,88,6,0.668,1.003
+43,gender,681,categorical,male vs female,1.3333333333333333,16,12,0,0.818,2.174
+44,genre,681,categorical,Fiction vs NonFiction,0.4,4,10,6,0.188,0.853
+45,arwuW,681,gradual,higher_implies_higher,1.1724137931034482,68,58,4,0.933,1.474
+46,countryName,681,categorical,England vs U.S.,0.0,0,0,0,1.0,1.0
+47,countryName,681,categorical,U.S. vs Canada,0.0,0,0,0,1.0,1.0
+48,endowment,681,gradual,higher_implies_higher,1.5714285714285714,88,56,4,1.263,1.956
+49,birthDate,86,gradual,higher_implies_higher,0.75,30,40,4,0.551,1.022
+50,gender,86,categorical,male vs female,0.6666666666666666,4,6,0,0.292,1.523
+51,genre,86,categorical,Fiction vs NonFiction,0.5,2,4,6,0.165,1.515
+52,arwuW,86,gradual,higher_implies_higher,1.3,26,20,2,0.888,1.902
+53,countryName,86,categorical,England vs U.S.,0.0,0,0,0,1.0,1.0
+54,countryName,86,categorical,U.S. vs Canada,0.0,0,0,0,1.0,1.0
+55,endowment,86,gradual,higher_implies_higher,1.4545454545454546,32,22,2,1.02,2.073
+56,birthDate,128,gradual,higher_implies_higher,0.8620689655172413,50,58,4,0.673,1.104
+57,gender,128,categorical,male vs female,0.75,6,8,0,0.376,1.497
+58,genre,128,categorical,Fiction vs NonFiction,0.3333333333333333,2,6,6,0.117,0.948
+59,arwuW,128,gradual,higher_implies_higher,1.5625,50,32,2,1.169,2.088
+60,countryName,128,categorical,England vs U.S.,0.0,0,0,0,1.0,1.0
+61,countryName,128,categorical,U.S. vs Canada,0.0,0,0,0,1.0,1.0
+62,endowment,128,gradual,higher_implies_higher,1.25,50,40,2,0.953,1.64
